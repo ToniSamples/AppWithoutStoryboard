@@ -32,7 +32,4 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Present the window
         window?.makeKeyAndVisible()
     }
-
-
 }
-
